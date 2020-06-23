@@ -5,6 +5,10 @@
 * liebt Daisy
 * hat keinen Beruf
 
+##Bekanntes Zitat:
+>Ich bin müde.
+
+
 Quelle Wikipedia.de:
 Donald, Sohn von Dortel und Degenhard Duck, ist ein zu Wutausbrüchen neigender Choleriker, der ständig von Geldsorgen und Missgeschicken geplagt wird.
 Er ist ein notorischer Pechvogel, der dauernd den Kürzeren zieht, vor allem gegenüber seinen Verwandten. 
