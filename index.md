@@ -1,5 +1,11 @@
 # Donald Duck
-Quele Wikipedia.de:
+## Charactereigenschaften
+* neigt zu Wutausbrüchen
+* faul
+* liebt Daisy
+* hat keinen Beruf
+
+Quelle Wikipedia.de:
 Donald, Sohn von Dortel und Degenhard Duck, ist ein zu Wutausbrüchen neigender Choleriker, der ständig von Geldsorgen und Missgeschicken geplagt wird.
 Er ist ein notorischer Pechvogel, der dauernd den Kürzeren zieht, vor allem gegenüber seinen Verwandten. 
 Donald übt keinen geregelten Beruf aus. Dafür hält er sich mit den verschiedensten Jobs über Wasser, die er aber über kurz oder lang mangels Begabung wieder aufgibt bzw. aus denen er entlassen wird.
