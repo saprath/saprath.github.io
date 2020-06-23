@@ -5,7 +5,7 @@
 * liebt Daisy
 * hat keinen Beruf
 
-##Bekanntes Zitat:
+## Bekanntes Zitat:
 >Ich bin müde.
 
 
@@ -18,4 +18,4 @@ Er ist recht faul und verbringt seine Freizeit vorzugsweise in der Hängematte.
 Gegenüber seiner Verlobten Daisy Duck empfindet er eine unerschütterliche Zuneigung, ohne dass die Beziehung der beiden jemals zur Eheschließung führt. 
 Sein Vetter Gustav Gans ist – wie in vielen anderen Dingen auch – sein Rivale im Kampf um Daisy. Diese fährt oftmals zweigleisig und lässt sich sowohl von Donald als auch von Gustav den Hof machen.
 
-A website for my favourite character is currently being built here!
+<img src="https://upload.wikimedia.org/wikipedia/de/1/1f/DonaldDuck.jpg"/>
